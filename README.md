@@ -9,3 +9,8 @@ Crowd move simulation
 - Agents have different types of goals (e.g., avoiding certain areas, seeking specific locations).
 
 ![Simulation2](demos/simul2.gif)
+
+## Simulation 3 (dynamic destinations for agents)
+destinations for agents are updated every 100 steps
+
+![Simulation3](demos/simul3.gif)
