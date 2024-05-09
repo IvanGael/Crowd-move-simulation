@@ -3,3 +3,9 @@ Crowd move simulation
 ## Simulation 1
 
 ![Simulation1](demos/simul1.gif)
+
+## Simulation 2 (obstacle avoidance and goal-seeking)
+- Agents avoid obstacles in their path.
+- Agents have different types of goals (e.g., avoiding certain areas, seeking specific locations).
+
+![Simulation2](demos/simul2.gif)
