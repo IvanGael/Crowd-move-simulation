@@ -14,3 +14,7 @@ Crowd move simulation
 destinations for agents are updated every 100 steps
 
 ![Simulation3](demos/simul3.gif)
+
+## Simulation 4 (collision avoiding with other agents)
+
+![Simulation4](demos/simul4.gif)
